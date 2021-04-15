@@ -4,7 +4,7 @@
 
 - [X] A passionate iOS Developer (who is obsessed with functional design).
 - [X] Based out of Orlando, Florida.
-- [X] Available for work.
+- [ ] Available for work.
 
 ### Currently
 
