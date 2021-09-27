@@ -8,10 +8,13 @@
 
 ### Currently
 
-As of lately I have been working on my own indie apps [Drinksly](https://apps.apple.com/us/app/drinksly/id1524569359?uo=4) and [Knight Spots](https://apps.apple.com/us/app/knight-spots/id1461254489)
+Currently working as an iOS Engineer.
+
+Previously I worked on some of my own indie apps including [Drinksly](https://apps.apple.com/us/app/drinksly/id1524569359?uo=4) and [Knight Spots](https://apps.apple.com/us/app/knight-spots/id1461254489)
 
 ### Let's connect!
 
+* Read more on my blog: [yonmontoto.com](https://www.yonmontoto.com)
 * Follow me on twitter: [yonodactyl](https://twitter.com/yonodactyl)
 
 <!--
