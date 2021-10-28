@@ -1,16 +1,17 @@
 ### 👋🏼 Hey, I'm Yon!
+He/Him
 
-### I am...
+### whoami
 
-- [X] A passionate iOS Developer (who is obsessed with functional design).
-- [X] Based out of Orlando, Florida.
-- [ ] Available for work.
+- An iOS Engineer; I love Swift and SwiftUI.
+- Based out of Florida.
+- A coffee fiend. Love me a good pour over, and a smooth cold brew.
 
-### Currently
+### What I am up to
 
 Currently working as an iOS Engineer.
 
-Previously I worked on some of my own indie apps including [Drinksly](https://apps.apple.com/us/app/drinksly/id1524569359?uo=4) and [Knight Spots](https://apps.apple.com/us/app/knight-spots/id1461254489)
+Previously I did consulting for a company in Florida. Meanwhile working there, I developed some of my own indie apps including [Drinksly](https://apps.apple.com/us/app/drinksly/id1524569359?uo=4) and [Knight Spots](https://apps.apple.com/us/app/knight-spots/id1461254489)
 
 ### Let's connect!
 
