@@ -7,13 +7,13 @@ He/Him
 - Based out of Florida.
 - A coffee fiend. Love me a good pour over, and a smooth cold brew.
 
-### What I am up to
+### what I am up to
 
 Currently working as an iOS Engineer.
 
 Previously I did consulting for a company in Florida. Meanwhile working there, I developed some of my own indie apps including [Drinksly](https://apps.apple.com/us/app/drinksly/id1524569359?uo=4) and [Knight Spots](https://apps.apple.com/us/app/knight-spots/id1461254489)
 
-### Let's connect!
+### let's connect!
 
 * Read more on my blog: [yonmontoto.com](https://www.yonmontoto.com)
 * Follow me on twitter: [yonodactyl](https://twitter.com/yonodactyl)
