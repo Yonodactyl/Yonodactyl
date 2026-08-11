@@ -2,33 +2,22 @@
 He/Him
 
 ### whoami
-
 - An iOS Engineer; I love Swift and SwiftUI.
 - Based out of Florida.
 - A coffee fiend. Love me a good pour over, and a smooth cold brew.
 
 ### what I am up to
+Currently looking for my next role as an iOS Engineer.
 
-Currently working as an iOS Engineer.
+In the meantime, back in indie dev mode, building:
+- [Sunrise Journal](https://apps.apple.com/us/app/sunrise-journal/id6473837013) — a journaling app
+- [hued](https://apps.apple.com/us/app/hued-color-mixing-puzzle/id6796434562) — a color matching puzzle game
 
-Previously I did consulting for a company in Florida. Meanwhile working there, I developed some of my own indie apps including [Drinksly](https://apps.apple.com/us/app/drinksly/id1524569359?uo=4) and [Knight Spots](https://apps.apple.com/us/app/knight-spots/id1461254489)
+Also deep in learning AI — building out skills, harnesses, and generally figuring out how to get agents to do useful things instead of chaos.
+
+Previously at Chatbooks, and shipped a couple earlier indie apps along the way.
 
 ### let's connect!
-
 * Read more on my blog: [yonmontoto.com](https://www.yonmontoto.com)
-* Follow me on twitter: [yonodactyl](https://twitter.com/yonodactyl)
-
-<!--
-**Yonodactyl/Yonodactyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Follow me on Threads: [yon.montoto](https://www.threads.com/@yon.montoto)
+* Open to opportunities — hit me up if you're hiring!
